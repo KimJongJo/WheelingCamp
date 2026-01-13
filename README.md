@@ -21,13 +21,9 @@ Table
 ![image](https://github.com/user-attachments/assets/8d182ff8-61bb-49e3-9ad4-500c895406f2)
 
 
-<details>
-<summary>
-개발 환경
-</summary>
+## 🛠 개발 환경 (Environment)
 
-  
-| Environment | Detail |
+| 구분 | 상세 내용 (Detail) |
 | --- | --- |
 | 환경 | Windows, Linux |
 | 언어 | Java, Javascript, HTML5, CSS3, jQuery, Oracle SQL |
@@ -38,8 +34,6 @@ Table
 | API | Kakao Mobility, Kakao Map, Open AI, Clova OCR, Login(Kakao, Google, Naver) |
 | 협업 | Github, Notion, ERD Cloud, Draw.io, Figma |
 
-  
-</details>
 
 
 ### 소셜 로그인
